@@ -1,5 +1,5 @@
 {% set name = "trame-vuetify" %}
-{% set version = "2.2.2" %}
+{% set version = "2.2.3" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/trame-vuetify-{{ version }}.tar.gz
-  sha256: a7cd5452e3343ffa78fb47db7d5a0cff37912904022158558f278a9112fbe709
+  sha256: e93f73c96b9cff7c4472621f94ed3ce4a1f2eea5ee2b33c6ab5d545dc2ba9347
 
 build:
   number: 0
