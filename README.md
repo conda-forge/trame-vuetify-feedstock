@@ -1,11 +1,11 @@
-About trame-vuetify
-===================
+About trame-vuetify-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/trame-vuetify-feedstock/blob/main/LICENSE.txt)
 
 Home: https://pypi.org/project/trame-vuetify/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/trame-vuetify-feedstock/blob/main/LICENSE.txt)
 
 Summary: Vuetify widgets for trame
 
